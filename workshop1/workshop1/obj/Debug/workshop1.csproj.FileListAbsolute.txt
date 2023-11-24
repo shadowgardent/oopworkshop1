@@ -1,0 +1,10 @@
+D:\oopworkshop1\workshop1\workshop1\bin\Debug\workshop1.exe.config
+D:\oopworkshop1\workshop1\workshop1\bin\Debug\workshop1.exe
+D:\oopworkshop1\workshop1\workshop1\bin\Debug\workshop1.pdb
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.csproj.AssemblyReference.cache
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.Form1.resources
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.Properties.Resources.resources
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.csproj.GenerateResource.cache
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.csproj.CoreCompileInputs.cache
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.exe
+D:\oopworkshop1\workshop1\workshop1\obj\Debug\workshop1.pdb
